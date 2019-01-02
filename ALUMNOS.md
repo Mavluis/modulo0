@@ -13,4 +13,5 @@ Poned vuestro nombre y una frase cualquiera.
 - `Jesús Pérez-Roca` - “Hola a todos”
 - `Miguel Díaz Leal` - "Hola a todo el mundo"
 - `Javier Ferreño` - "¡¡Felices Fiestas!!."
+- `Alberto Salgado` - "Hola a todos"
 - `Patricia Bárcena` - “Feliz año a todos!”
